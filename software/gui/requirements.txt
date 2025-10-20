@@ -1,0 +1,6 @@
+requirements.txt
+Flask==2.0.1
+PyQt5==5.15.4
+requests==2.25.1
+pytest==6.2.4
+numpy==1.21.0

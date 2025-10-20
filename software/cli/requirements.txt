@@ -1,0 +1,7 @@
+# The contents of the file /serial-hw-keybridge/serial-hw-keybridge/software/cli/requirements.txt
+
+Flask
+requests
+click
+pyserial
+pytest
